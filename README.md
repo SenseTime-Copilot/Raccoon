@@ -1,6 +1,6 @@
 # Raccoon
 
-Raccoon (**R**accoon is **A**nother **C**ode **CO**pilot **O**n sense**N**ova) 是基于商汤 [SenseNova](https://www.sensenova.cn/) 日日新大模型 开发的代码助手。
+Raccoon (**R**accoon is **A**nother **C**ode **CO**pilot **O**f **N**ewera) 是基于 AI 的代码助手。
 
 ## 登录账号
 
