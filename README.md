@@ -146,7 +146,7 @@ Raccoon (**R**accoon is **A**nother **C**ode **CO**-pil**O**t **N**avigator) 是
 
 > 结果中的代码可能不属于易复用的代码片段，则不会提供 `加入代码收藏` 的操作，但可能提供其他便捷操作（如针对 `mermaid` 会提供 `显示/隐藏图像` 的操作）。
 
-## Raccoon Notebok 🚧
+## Raccoon Notebook 🚧
 
 Raccoon Notebook 可以帮助您创建可交互、可复用的对话流程文件。您可以通过 `File` > `New File...` > `Raccoon Notebook` 来创建示例文件开始了解，或者新建一个任意的扩展名为 `.rcnb` 的文件来从零开始创建自己的 Notebook。
 
