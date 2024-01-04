@@ -142,20 +142,20 @@ Raccoon (<b>R</b>accoon is <b>A</b>nother <b>C</b>ode <b>CO</b>-pil<b>O</b>t <b>
 
 以下是几个示例：
 
-```json
+```handlebars
 编写一个 Dockerfile 模板
 ```
 
-```json
+```handlebars
 将{{input:十进制数}}转换为十六进制
 ```
 
-```json
+```handlebars
 提取以下代码中的所有函数签名
 {{code}}
 ```
 
-```json
+```handlebars
 将以下代码翻译为{{input:目标语言}}语言代码
 {{code}}
 ```
