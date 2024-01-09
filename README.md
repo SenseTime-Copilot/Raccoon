@@ -72,7 +72,7 @@ Raccoon (<b>R</b>accoon is <b>A</b>nother <b>C</b>ode <b>CO</b>-pil<b>O</b>t <b>
 * 编辑器内代码助手 (GUI)：在 Raccoon 侧边栏视图中，点击标题栏上的 `更多...` 选择 `新建 Raccoon 代码助手` 创建，可以创建多个独立实例，便于多线开发
 * 终端面板代码助手 (CLI)：在 Raccoon 侧边栏视图中，点击标题栏上的 `更多...` 选择 `新建 Raccoon 终端` 创建，同样的可以创建多个独立实例
 
-![Assistant](media/Raccoon-Assistant.png)
+![Assistant](media/Raccoon-Assistant.gif)
 
 ### GUI 代码助手
 
