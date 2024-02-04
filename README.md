@@ -8,6 +8,8 @@
 Raccoon (<b>R</b>accoon is <b>A</b>nother <b>C</b>ode <b>CO</b>-pil<b>O</b>t <b>N</b>avigator) —— 基于 AI 的代码助手
 </p>
 
+ * [English Document](README-en.md)
+
 ## 安装与注册
 
 可以从以下位置获取 Raccoon 插件：
